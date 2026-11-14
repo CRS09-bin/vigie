@@ -10,6 +10,7 @@ ta connexion et ta Livebox, le tout dans une interface claire et moderne.
 [![Télécharger](https://img.shields.io/github/v/release/CRS09-bin/vigie?label=T%C3%A9l%C3%A9charger&style=for-the-badge&color=2D6CDF)](https://github.com/CRS09-bin/vigie/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)
 ![Gratuit](https://img.shields.io/badge/Prix-Gratuit-10B981?style=for-the-badge)
+[![Soutenir sur Ko-fi](https://img.shields.io/badge/Soutenir-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/crs09)
 
 </div>
 
@@ -86,6 +87,15 @@ Rends-toi dans la section **[Releases](https://github.com/CRS09-bin/vigie/releas
   - **ip-api.com** : pays des serveurs (désactivable dans les Paramètres)
   - **ipinfo.io / ipify.org** : affichage de ton IP publique
   - **Speedtest by Ookla** : test de débit, uniquement si tu l'acceptes (téléchargé depuis le site officiel d'Ookla)
+
+---
+
+## ☕ Soutenir Vigie
+
+Vigie est **gratuit** et le restera. Si l'appli te rend service, tu peux soutenir son créateur
+en lui offrant un café : ça l'aide à continuer de l'améliorer. Merci ! 💙
+
+<a href="https://ko-fi.com/crs09"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Soutenir Vigie sur Ko-fi"></a>
 
 ---
 
