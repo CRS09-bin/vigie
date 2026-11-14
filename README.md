@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🛰️ Vigie
-
-### Le gardien de ton réseau
+<img src="vigie-banner.png" alt="Vigie — le gardien de ton réseau" width="100%">
 
 **Vigie** surveille ton réseau domestique sous Windows : les appareils connectés, ton trafic Internet,
 ta connexion et ta Livebox, le tout dans une interface claire et moderne.
