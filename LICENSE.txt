@@ -1,0 +1,27 @@
+VIGIE — CONTRAT DE LICENCE D'UTILISATION
+Copyright (c) 2026 CRS_09. Tous droits réservés.
+
+1. Gratuité
+Vigie est un logiciel gratuit. Tu peux le télécharger, l'installer et l'utiliser
+librement, à titre personnel ou professionnel, sur autant d'ordinateurs que tu veux.
+
+2. Ce qui est permis
+- Partager le lien officiel de téléchargement : https://github.com/CRS09-bin/vigie
+- Utiliser Vigie sur ton propre réseau ou sur un réseau dont tu as l'autorisation.
+
+3. Ce qui est interdit
+- Vendre Vigie ou le proposer en échange d'une contrepartie.
+- Modifier, décompiler ou désassembler le logiciel, ou en extraire le code.
+- Redistribuer Vigie sous un autre nom, ou en retirer les mentions d'auteur.
+- Utiliser Vigie pour surveiller un réseau ou des appareils sans l'accord de leurs propriétaires.
+
+4. Composants tiers
+Le test de débit peut utiliser « Speedtest by Ookla », téléchargé depuis le site d'Ookla
+avec ton accord et soumis à ses propres conditions : https://www.speedtest.net/about/eula
+
+5. Absence de garantie
+Vigie est fourni « tel quel », sans garantie d'aucune sorte. L'auteur ne pourra être
+tenu responsable d'aucun dommage lié à son utilisation, notamment en cas de coupure
+d'accès à Internet, de redémarrage de la box ou de perte de données.
+
+En installant ou en utilisant Vigie, tu acceptes ce contrat.
