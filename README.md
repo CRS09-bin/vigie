@@ -14,6 +14,28 @@ ta connexion et ta Livebox, le tout dans une interface claire et moderne.
 
 ---
 
+## 📸 Aperçu
+
+<p align="center">
+  <img src="captures/vigie-appareils.png" alt="Appareils du réseau" width="100%">
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="captures/vigie-carte.png" alt="Carte du réseau"><br><p align="center"><b>Carte du réseau</b></p></td>
+    <td width="50%"><img src="captures/vigie-trafic.png" alt="Trafic du PC"><br><p align="center"><b>Trafic en temps réel</b></p></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="captures/vigie-internet.png" alt="Connexion et test de débit"><br><p align="center"><b>Connexion et test de débit</b></p></td>
+    <td width="50%"><img src="captures/vigie-livebox.png" alt="Livebox"><br><p align="center"><b>Gestion de la Livebox</b></p></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="captures/vigie-consommation.png" alt="Consommation"><br><p align="center"><b>Consommation jour / semaine / mois</b></p></td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Fonctionnalités
 
 ### 📡 Appareils du réseau
